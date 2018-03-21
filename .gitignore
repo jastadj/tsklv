@@ -1,0 +1,11 @@
+*.o
+*.exe
+*.dll
+*.depend
+*.layout
+*.ts
+*.bin
+*.jpg
+*.docx
+*.csv
+*.kml
